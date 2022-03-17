@@ -9,5 +9,5 @@ int main()
 	sum=num1+num2;
 	printf("sum=%d\n",sum);
 
-return 0;2
+return 0;
 }
